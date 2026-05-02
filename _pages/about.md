@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of JLU](https://www.jlu.edu.cn/), My research interest includes deep learning，computer vision, large language models(LLMs).
+I'm a third year undergraduate student from [School of JLU](https://www.jlu.edu.cn/), My research interest includes deep learning，AI4Science, large language models(LLMs).
